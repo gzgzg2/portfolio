@@ -24,9 +24,9 @@
 <h3>공헌한 내용</h3>
 <ul>
 <li>기여도 : 100%</li>
-<li>HTML, CSS, BootStrap, JQuery</li>
-<li>Java, Spring, Mybatis, SpringSecurity, JSP, JSTL, EL </li>
-<li>Git, Maria DB, Kakao Maps API, Java Mail, COS, JDBC, CkEditor, Jsoup, JDBC</li>
+<li>웹 화면 구성 : HTML, CSS, BootStrap, JQuery</li>
+<li>결과처리에 사용한 서버 액션 : Java, Spring, Mybatis, SpringSecurity, JSP, JSTL, EL </li>
+<li>사용한 외부 라이브러리 : Git, Maria DB, Kakao Maps API, Java Mail, COS, JDBC, CkEditor, Jsoup, JDBC</li>
 <li>개발 Tool : Eclips, Apache Tomcat v8.5, Visual Studio Code</li>
 </ul>
 <hr>
@@ -41,7 +41,7 @@
 <li>2019.10.16 ~ 2020.3.13</li></ul>
 <h3>교육 내용</h3>
 <ul>
-<li><b>JAVA 프로그래밍</b><br>기본문법 및 객체지향에 대한 개념과 이해, Java Collection FrameWork(Collection, List, Set, Map), Exception,Marker Interface, Interface, 파일입출력, 다형성 학습</li>
+<li><b>JAVA 프로그래밍</b><br>기본문법 및 객체지향에 대한 개념과 이해, Java Collection FrameWork(Collection, List, Set, Map),<br> Exception,Marker Interface, Interface, 파일입출력, 다형성 학습</li>
 <br>
 <li><b>MySQL</b><br>DML, DDL, DCL, subquery, join, 기본문법 학습</li>
 <br>
