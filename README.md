@@ -1,7 +1,7 @@
 박우람 포트폴리오
 ======================
 <h3>JSP 프로젝트</h3>
-<a href="https://github.com/gzgzg2/Project_itmoa">ITMOA프로젝트 바로가기</a>
+<a href="https://github.com/gzgzg2/ITMOA_PWR.git">ITMOA프로젝트 바로가기</a>
 <br>
 <h3>개요</h3>
 <ul>
