@@ -11,7 +11,7 @@
 <li>기여도 : 100%</li>
 <li>웹 화면 구성 : HTML, CSS, BootStrap, JQuery</li>
 <li>결과처리에 사용한 서버 액션 : Java, Servlet, JSP, JSTL, EL </li>
-<li>사용한 외부 라이브러리 : Git, Maria DB, Google Maps API, 다음 우편번호 API, Java Mail, COS, JDBC, JSTL, JQuery, BootStrap</li>
+<li>사용한 외부 라이브러리 : Git, Maria DB, Google Maps API, 다음 우편번호 API, Gson, Java Mail, COS, JDBC, JSTL, JQuery, BootStrap</li>
 <li>개발 Tool : Eclips, Apache Tomcat v8.5, Visual Studio Code</li>
 </ul>
 <hr>
