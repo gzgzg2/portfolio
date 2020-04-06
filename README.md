@@ -1,6 +1,5 @@
 박우람 포트폴리오
 ======================
-<br>
 <h3>JSP 프로젝트</h3>
 <a href="https://github.com/gzgzg2/Project_itmoa">ITMOA프로젝트 바로가기</a>
 <br>
@@ -34,7 +33,6 @@
 
 코리아 IT 아카데미 교육내역서
 ---------------------------------
-<br>
 <h3>이수 과정명</h3>
 <ul>
 <li>웹개발자 양성 과정</li></ul>
@@ -53,4 +51,3 @@
 Interceptor, AOP에 대한 이해, Sprinng MVC처리, JDBC, MyBatis 연동
 </li><br>
 </ul>
-<hr>
