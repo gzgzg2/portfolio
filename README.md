@@ -48,7 +48,7 @@
 <li><b>HTML / CSS / Ajax / Json / XML / jQuery / javaScript / BootStrap</b><br>JQuery웹서비스 활용, Ajax XMLHttpRequest서버와의 통신이해, 오픈 API 활용, JSON 파싱, 웹표준 기반의 HTML5 마크업, CSS 스타일링, JQuery 기본 문법 학습</li><br>
 <li><b>Servlet / JSP / JSTL / EL</b><br>MVC기반 Web application 구현, Container의 사용법, Servlet 작성법 및 요청과 응답의 사용, Session과 Cookie에 대한 이해와 활용, EL, JSTL 학습</li><br>
 <li><b>Spring 5.2 / MyBatis</b><br>Spring5.2의 모듈 설정과 특징, 객체간의 의존성 주입에 대한 이해와 실습,
-Interceptor, AOP에 대한 이해, Sprinng MVC처리,JDBC, MyBatis 연동
+Interceptor, AOP에 대한 이해, Sprinng MVC처리, JDBC, MyBatis 연동
 </li><br>
 </ul>
 <hr>
