@@ -16,7 +16,7 @@
 </ul>
 <hr>
 <h3>Spring 프로젝트</h3>
-<a href="https://github.com/gyo1227/MGB">귤귤플래너 바로가기</a>
+<a href="https://github.com/gzgzg2/spring_portfolio">귤귤플래너 바로가기</a>
 <br>
 <h3>개요</h3>
 <ul>
